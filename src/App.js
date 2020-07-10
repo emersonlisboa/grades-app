@@ -13,7 +13,7 @@ function App() {
       <div>
         <nav className="navbar navbar-expand navbar-dark bg-dark">
           <a href="/grade" className="navbar-brand">
-            Aplicativo 3.0
+            Aplicativo 4.0
           </a>
           <div className="navbar-nav mr-auto">
             <li className="nav-item">
